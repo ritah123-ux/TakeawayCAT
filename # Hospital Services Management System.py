@@ -149,4 +149,6 @@ def main():
         elif choice == "6":
             print("Thank you for using the system.")
             break
-        
+        else:
+            print("Invalid choice. Try again.")
+main()
